@@ -31,10 +31,10 @@ You could provide one fasta format file or a folder with several fasta format fi
 
 #python ProLanDO_fastaFolder_model1.py ProLanDO_oneFasta_model1.py ../test/fastaFolder ../model/training_DO_RNN_512_0.009000000000000001.model ../test/ProLanDO_testFolder_DO
 
-You should be able to find the output file named TopQAScores.txt in the output folder.
+You should be able to find the output file for DO term prediction in the output folder.
 
 
 --------------------------------------------------------------------------------------
-Developed by John Smith and Dr. Renzhi Cao at Pacific Lutheran University:
+Developed by Dr. Renzhi Cao at Pacific Lutheran University:
 
 Please contact Dr. Cao for any questions: caora@plu.edu (PI)
